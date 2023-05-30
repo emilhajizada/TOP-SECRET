@@ -1,0 +1,16 @@
+https://preview.colorlib.com/#theestate
+
+Yuxarida verilen linkə daxil olacaqsiz.Sizə verilən şəkildəki hissələri yazacaqsiz.
+
+
+Əsaslar
+   -Responsive olmalıdır.
+   -Struktur olmalıdır.
+   -Secili olan hissəni mockapi ilə yaradib fetch ilə sorğu atib CRUD əməliyyatlari edəcəksiz.
+   -Load More vəya Pagination məntiqi
+Əlavələr
+   -Search
+   -Filter
+   -Sort
+   -Basket iconu əlavə edib Basket məntiqini yazmaq(Javascript ilə).
+   

@@ -1,0 +1,15 @@
+https://preview.colorlib.com/#invest
+
+Yuxarida verilen linkə daxil olacaqsiz.Sizə verilən şəkildəki hissələri yazacaqsiz.
+
+
+Əsaslar
+   -Responsive olmalıdır.
+   -Struktur olmalıdır.
+   -Secili olan hissəni mockapi ilə yaradib fetch ilə sorğu atib CRUD əməliyyatlari edəcəksiz.
+   -Əlavə olaraq İnput əlavə edəcəksiz.Search mentiqin yazacaqsız.
+Əlavələr
+   -Filter
+   -Sort
+   -Basket iconu əlavə edib Basket məntiqini yazmaq(Javascript ilə).
+   

@@ -1,0 +1,14 @@
+https://preview.colorlib.com/#security
+
+Yuxarida verilen linkə daxil olacaqsiz.Sizə verilən şəkildəki hissələri yazacaqsiz.
+
+Əsaslar
+   -Responsive olmalıdır.
+   -Struktur olmalıdır.
+   -Secili olan hissəni mockapi ilə yaradib fetch ilə sorğu atib CRUD əməliyyatlari edəcəksiz.
+   -İcon əlavə edib Sort mentiqin yazacaqsız.
+Əlavələr
+   -Search
+   -Filter
+   -Basket iconu əlavə edib Basket məntiqini yazmaq(Javascript ilə).
+   
